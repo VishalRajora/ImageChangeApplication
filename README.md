@@ -1,4 +1,4 @@
-# ImageSet
+# Screenshots
 
 <b>this is first activity then the user clik the button this image will change</b>
 
